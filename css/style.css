@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Bebas+Neue&family=Roboto:ital,wght@0,400;1,300;1,900&display=swap');
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body{
+	font-family: 'Roboto', serif;
+	font-size: 18px;
+	margin: 0px;
+	background-color: rgba(200,200,200,0.6);
+	color: rgb(150,150,150);
+}
+
+h1,h2,h3{
+	font-family: Lato, sans-serif;
+	font-weight: bold;
+}
+a{
+	text-decoration: none;
+}

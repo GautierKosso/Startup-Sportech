@@ -1,0 +1,20 @@
+.banner{
+	background-image: linear-gradient(-220deg, rgba(0, 0, 0, 0.9) 40%, rgba(0,0,0,0) 55%),url(../../images/banner.jpg);
+	padding: 150px 0px;
+	background-size: cover;
+	background-position: center;
+}
+
+.banner h1{
+	font-size: 50px;
+	color: rgba(255, 255, 255, 0.8);
+	font-family: Bebas Neue;
+}
+
+.banner h2{
+	font-size: 30px;
+	font-weight:400 ;
+	color: white;
+	opacity: 0.7;
+	margin-bottom: 50px;
+} 
